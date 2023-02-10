@@ -7,3 +7,5 @@ c:\users\wanga\documents\visual studio 2015\Projects\Mill_Tracker\Mill_Tracker\o
 c:\users\wanga\documents\visual studio 2015\Projects\Mill_Tracker\Mill_Tracker\obj\Debug\Mill_Tracker.exe
 c:\users\wanga\documents\visual studio 2015\Projects\Mill_Tracker\Mill_Tracker\obj\Debug\Mill_Tracker.pdb
 C:\Users\Wanga\documents\visual studio 2015\Projects\Mill_Tracker\Mill_Tracker\obj\Debug\Mill_Tracker.Home.resources
+C:\Users\Wanga\documents\visual studio 2015\Projects\Mill_Tracker\Mill_Tracker\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Wanga\documents\visual studio 2015\Projects\Mill_Tracker\Mill_Tracker\bin\Debug\UserInterfaceLibrary.dll
